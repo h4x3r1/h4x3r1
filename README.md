@@ -9,23 +9,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=h4x3r1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**📁 &nbsp;𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 :**
-  
-```python
-class Bio:
-     def __init__(self):
-          self.data()
-     def data(self):
-          Biodata = {
-           Full Name = "Hr1doy Islam",
-           Nick Name = "Hax4",
-           Status = "Learning",
-           Aim = "To be the best",
-           Country = "127.0.0.1",
-           Age = "Doesn't Matter",
-           Birthday = "21/01/20xx"
-          } 
-          print (Biodata)
-if __name__==__main__":
-      Bio()
-```
